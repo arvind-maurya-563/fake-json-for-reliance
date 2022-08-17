@@ -1,5 +1,4 @@
-{
-  "television": [
+[
     {
       "id": 1,
       "imglink": "https://www.reliancedigital.in/medias/Samsung-UA32T4340BKXXL-Smart-Television-492403650-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNDk1NnxpbWFnZS9qcGVnfGltYWdlcy9oNDcvaDE3Lzk4NDIyMDUxMzA3ODIuanBnfDljNDA4NjY5ZmYwYjNmMTBlMmYwZGEwODNkMTk5M2ZkMDc5MTgzZTAyY2VmNWYwMjJmYWNlZmEwNzBkNmYyZjI",
@@ -624,4 +623,3 @@
       "img3": "https://www.reliancedigital.in/medias/Realme-Neo-LED-Televisions-492796729-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wyNTQ5OHxpbWFnZS9qcGVnfGltYWdlcy9oYWYvaDM0Lzk4MDg1NDQzNjY2MjIuanBnfDE0MmVmNGU0YWY2ZTZkNTc0Y2Q0NWZiZmYwZWJjZTRmNmQ4ODY3YWZjZmI5NzczZDYyNWVmMWZjZjUwYWQxNDQ"
     }
   ]
-}

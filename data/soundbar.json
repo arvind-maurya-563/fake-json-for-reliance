@@ -1,5 +1,5 @@
-{
-    "soundbar": [
+
+[
         {
           "id": 1,
           "imglink": "https://www.reliancedigital.in/medias/LG-SN4-Sound-Bar-492796654-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w2Mzk4MXxpbWFnZS9qcGVnfGltYWdlcy9oN2QvaDQ5Lzk4MTY2NTE4NTc5NTAuanBnfDUxM2M0ZTEzMmZkM2NlMjY2OWVjNjE3NTkwNDA4MzcwMzA0MTBlZGY1MTZjYWU0ZWUyMmU2OWQyZDc0ZmQ5Yjk",
@@ -145,4 +145,3 @@
           "img3": "https://www.reliancedigital.in/medias/Infinity-Cinebar-200-TV-Speakers-and-Soundbar-491936141-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wxMTE1NHxpbWFnZS9qcGVnfGltYWdlcy9oYjUvaDZlLzk1MTQ2Njg3ODU2OTQuanBnfDFkY2YwYTI1YTU2NjVlZDBhNWY1YTY2MTEyMjVmYmVmNmQ0YWQ5N2E4NmNkMzI0ZGExNTNjMmFhMTNkY2E0YTU"
         }
       ]
-}

@@ -1,5 +1,4 @@
-{
-    "laptop": [
+[
         {
           "id": 1,
           "imglink": "https://www.reliancedigital.in/medias/Lenovo-81WH007KIN-LAPTOP-492849666-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMDg2MnxpbWFnZS9qcGVnfGltYWdlcy9oNWIvaGI0Lzk4NDkyMzg2NTA5MTAuanBnfDY1ZTdjNmUxYzdiMDczOThhZDMzYjBlZGE1MmZlYTE5ZDZhOGNhZGEzYTU2NDk5YWQ5ODgxMTY4NjA3OTI4ZDE",
@@ -181,4 +180,3 @@
           "img3": "https://www.reliancedigital.in/medias/Lenovo-41IN-Laptops-492850143-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wzMDQ4fGltYWdlL2pwZWd8aW1hZ2VzL2hkNS9oMGQvOTg0OTIzMDI2MjMwMi5qcGd8NzczOGEwNjU3NzkwMDFhMzNmZjU4MTA5ZjQwOGYzMWIwZTg5ZTFiY2EzMzk1Yzg2MWJkZmJhNTJiMWNiZmExNg"
         }
       ]
-}

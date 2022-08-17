@@ -1,5 +1,4 @@
-{
-    "tvForHomePage": [
+[
         {
           "id": 1,
           "imglink": "https://www.reliancedigital.in/medias/Samsung-UA32T4340BKXXL-Smart-Television-492403650-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNDk1NnxpbWFnZS9qcGVnfGltYWdlcy9oNDcvaDE3Lzk4NDIyMDUxMzA3ODIuanBnfDljNDA4NjY5ZmYwYjNmMTBlMmYwZGEwODNkMTk5M2ZkMDc5MTgzZTAyY2VmNWYwMjJmYWNlZmEwNzBkNmYyZjI",
@@ -145,4 +144,3 @@
           "img3": "https://www.reliancedigital.in/medias/ONEPLUS-43Y1S-EDGE-SMART-LED-TV-492796557-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3w3MDM0fGltYWdlL2pwZWd8aW1hZ2VzL2gyNS9oOGQvOTc3ODU2NDE2OTc1OC5qcGd8N2Q1ZmIzNGU0YjRkODg4N2MwMzE3M2RkYjA1YzM0ZDY1NGQwY2E2MTE0ODRmYTY4ZThhZDQ4MmVhOGNjZWJiYw"
         }
       ]
-}

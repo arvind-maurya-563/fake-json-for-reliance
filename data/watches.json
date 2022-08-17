@@ -1,5 +1,4 @@
-{
-    "watches": [
+[
         {
           "id": 1,
           "imglink": "https://www.reliancedigital.in/medias/Hammer-PULSE-3-0-Smart-Watch-492849894-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3NTc2NnxpbWFnZS9qcGVnfGltYWdlcy9oOTAvaGVhLzk4MTQ3MTk3MjU1OTguanBnfDIwNmE0ZTYxZWZjODMwMDUxZTBiNWE0ZTM4YzFhODIzNDBkM2FlNmUzZTliNDIyY2I2ZjI5YWMxOGMzYzkwZmE",
@@ -145,4 +144,3 @@
           "img3": "https://www.reliancedigital.in/medias/Fire-Boltt-Ninja-Pro-Max-Smart-Watch-492574963-i-3-1200Wx1200H-96Wx96H?context=bWFzdGVyfGltYWdlc3wzMDI5NHxpbWFnZS9qcGVnfGltYWdlcy9oZjEvaDliLzk4MTc1MTQxODA2MzguanBnfGU1NDJjNWJjNDM0YjQwNmU5ZDBmMDI1Y2NmYjlmNzU2NzU2MDI5NzlhZjRmMzYyNGZkZDliZjQ3YzU0ZjUxYzY"
         }
       ]
-}
