@@ -1,4 +1,5 @@
 const items = require("./data/items");
+const DUMMY = require('./data/DUMMY.json')
 const tags = require("./data/tags");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
@@ -24,7 +25,8 @@ module.exports = {
   television,
   watches,
   tvForHomePage,
-  profile
+  profile,
+  DUMMY
 }
 
 
